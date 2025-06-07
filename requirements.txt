@@ -1,0 +1,8 @@
+kagglehub
+numpy
+pandas
+keras
+opencv-python
+matplotlib
+scikit-learn
+Pillow
